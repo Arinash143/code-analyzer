@@ -21,19 +21,19 @@ Users can register, submit their Java code, and get an analysis score with feedb
 1. Clone this repository:
 git clone <https://github.com/arinash143/codeanalyzer.git>
 
-2.Navigate into the folder:
+2. Navigate into the folder:
 cd codeanalyzer
 
-3.Run Maven build:
+3. Run Maven build:
 mvn clean install
 
-4.Start the application:
+4. Start the application:
 mvn spring-boot:run
 
-5.Open your browser and visit:
+5. Open your browser and visit:
 http://localhost:8080
 
-6.MySQL setup:
+6. MySQL setup:
    - Create a database:
      CREATE DATABASE codeanalyzerdb;
     
